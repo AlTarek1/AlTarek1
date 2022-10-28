@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Tarek</h1>
 <h3 align="center">A Frontend Developer from Egypt</h3>
-<h3 align="center">Problem Solver on Codeforces</h3>
+<h3 align="center">And</h3>
+<h3 align="center">A Problem Solver on Codeforces</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 <br />
