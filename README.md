@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yousef Tarek</h1>
 <h3 align="center">A Frontend Developer from Egypt</h3>
 <h3 align="center">Problem Solver on Codeforces</h3>
-<br />
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+
+
 <br /><br />
 <br />
 <br />
-
 - 👨‍💻 All of my projects are available at [https://youseftarek.netlify.app/](https://youseftarek.netlify.app/)
 
 - 📫 How to reach me **youseftarek354@gmail.com**
