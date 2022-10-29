@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **youseftarek354@gmail.com** , **01556562963 Whatsapp**
 
-- 📄 Know about my experiences [https://youseftarek.notion.site/Yousef-Tarek-Fadl-bf01a426ddf745afaceb4a61879c85b0](https://youseftarek.notion.site/Yousef-Tarek-Fadl-bf01a426ddf745afaceb4a61879c85b0)
+- 📄 Know about my experiences https://youseftarek.notion.site/Yousef-Tarek-Fadl-bf01a426ddf745afaceb4a61879c85b0
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
